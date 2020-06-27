@@ -5,7 +5,7 @@
 
 主题：DFS
 
-[DFS传送门](https://github.com/sky-noodle/CodeGreenBook/edit/master/dfs/README.md)
+[DFS传送门](https://github.com/sky-noodle/CodeGreenBook/tree/master/dfs)
 
 LeetCode：
 
